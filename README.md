@@ -39,13 +39,36 @@
 
 
 ### 🌟 Featured Projects  
-- [Talking Character App](https://github.com/Antony957/talking-character)  
-   > LLM-powered interactive character with voice + animation.  
-- [AI Resume Matcher](https://github.com/Antony957/ai-resume-matcher)  
-   > OCR + LLM pipeline achieving 90% recall, reduced manual screening by 80%.  
-- [Dispatch Playback System (Meituan)](https://github.com/Antony957/dispatch-playback)  
-   > Large-scale data processing & visualization for billions of mobility points.  
 
+#### [Talking Character App](https://github.com/simplew4y/ohcat)  
+- **Overview**: LLM-powered virtual character application enabling real-time voice conversations with customizable styles and animations.  
+- **Tech Stack**: React / Next.js, Flask, PyTorch, LoRA fine-tuning, WebSocket real-time communication, animation rendering.  
+- **Impact**: Delivered a full-stack voice chat platform with efficient hot-reload LoRA integration; collaborated with product and animation teams to create seamless, immersive user experiences.  
+
+---
+
+#### [AI Resume Matcher](https://github.com/Antony957/ai-resume-matcher)  
+- **Overview**: AI-driven recruitment assistant that parses unstructured resumes into structured candidate profiles and matches them with job descriptions.  
+- **Tech Stack**: OCR + LLM pipeline, semantic embedding search, vector retrieval, Flask backend.  
+- **Impact**: Achieved 90%+ recall in information extraction; reduced manual resume screening workload by ~80% for the client.  
+
+---
+
+#### [Research in LLM Safety](https://github.com/Antony957/llm-safety)  
+- **Overview**: Research project focusing on enhancing robustness of large language models against jailbreak and adversarial attacks.  
+- **Tech Stack**: Security control mechanisms for multiple LLMs (e.g., Vicuna), evaluation against baselines, adversarial testing.  
+- **Impact**: Improved robustness against jailbreak attacks by ~60%; published 2 first-author papers in peer-reviewed venues.  
+
+---
+
+#### [Work Experience at Meituan](https://github.com/Antony957/meituan-dispatch)  
+- **Overview**: Large-scale mobility dispatching and visualization systems, including simulation, playback, and data pipelines.  
+- **Tech Stack**: Flink, HBase/Hive, Kafka, Spring Boot, A/B testing frameworks, front-end visualization.  
+- **Impact**:  
+  - Designed and delivered a **playback system** for billions of mobility data points, reducing ~5,000 hours of manual work annually.  
+  - Built a **dispatch model simulation platform** to efficiently evaluate 100+ strategies.  
+  - Implemented a **high-throughput data pipeline** (10M+ logs/day), accelerating model tuning cycles by 16% and improving ROI by 25%.
+  
 <!--
 **Antony957/Antony957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
