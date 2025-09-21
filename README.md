@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Antony Zhao  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony957/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony957/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/antony957) 
 [![Email](https://img.shields.io/badge/Email-cz207@duke.edu-red?logo=gmail&logoColor=white)](mailto:cz207@duke.edu)
 
 🎓 MEng in Electrical & Computer Engineering @ Duke (GPA: 4.0/4.0)  
 💻 Full-stack & AI Systems Engineer | Ex-Meituan | AI Startup Builder  
-🚀 Goal: build AI products that deliver clear user impact. 
-🎯 Open to **SDE / Applied AI roles in the U.S.**
+🚀 Goal: build AI products that deliver clear user impact  
+🎯 Open to **SDE / Applied AI roles in the U.S.**.
 
 
 
@@ -15,7 +15,7 @@
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
@@ -25,8 +25,8 @@
 **AI / ML**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?logo=graphql&logoColor=white) 
-![Transformers](https://img.shields.io/badge/Transformers-FFCA28?logo=deeplearning&logoColor=black) 
-![LoRA](https://img.shields.io/badge/LoRA-4CAF50?logo=ai&logoColor=white)  
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white)
+![Fine-tune](https://img.shields.io/badge/Fine--tune-4CAF50?logo=openai&logoColor=white)
 
 **Infrastructure & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
