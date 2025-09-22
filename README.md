@@ -40,28 +40,28 @@
 
 ### 🌟 Featured Projects  
 
-#### [Talking Character App](https://github.com/simplew4y/ohcat)  
+#### [Talking Character App](https://github.com/Antony957/ohcat)  
 - **Overview**: LLM-powered virtual character application enabling real-time voice conversations with customizable styles and animations.  
 - **Tech Stack**: React / Next.js, Flask, PyTorch, LoRA fine-tuning, WebSocket real-time communication, animation rendering.  
 - **Impact**: Delivered a full-stack voice chat platform with efficient hot-reload LoRA integration; collaborated with product and animation teams to create seamless, immersive user experiences.  
 
 ---
 
-#### [AI Resume Matcher](https://github.com/Antony957/ai-resume-matcher)  
+#### [AI Resume Matcher](https://github.com/Antony957/ai_resume_matcher)  
 - **Overview**: AI-driven recruitment assistant that parses unstructured resumes into structured candidate profiles and matches them with job descriptions.  
 - **Tech Stack**: OCR + LLM pipeline, semantic embedding search, vector retrieval, Flask backend.  
 - **Impact**: Achieved 90%+ recall in information extraction; reduced manual resume screening workload by ~80% for the client.  
 
 ---
 
-#### [Research in LLM Safety](https://github.com/Antony957/llm-safety)  
+#### [Research in LLM Safety](https://github.com/Antony957/llm_safety)  
 - **Overview**: Research project focusing on enhancing robustness of large language models against jailbreak and adversarial attacks.  
 - **Tech Stack**: Security control mechanisms for multiple LLMs (e.g., Vicuna), evaluation against baselines, adversarial testing.  
 - **Impact**: Improved robustness against jailbreak attacks by ~60%; published 2 first-author papers in peer-reviewed venues.  
 
 ---
 
-#### [Work Experience at Meituan](https://github.com/Antony957/meituan-dispatch)  
+#### [Work Experience at Meituan](https://github.com/Antony957/meituan_dispatch)  
 - **Overview**: Large-scale mobility dispatching and visualization systems, including simulation, playback, and data pipelines.  
 - **Tech Stack**: Flink, HBase/Hive, Kafka, Spring Boot, A/B testing frameworks, front-end visualization.  
 - **Impact**:  
