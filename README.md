@@ -37,7 +37,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)  
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <table>
   <!-- Talking Character App -->
