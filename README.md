@@ -41,34 +41,69 @@
 ### 🌟 Featured Projects  
 
 #### [Talking Character App](https://github.com/Antony957/ohcat)  
-- **Overview**: LLM-powered virtual character application enabling real-time voice conversations with customizable styles and animations.  
-- **Tech Stack**: React / Next.js, Flask, PyTorch, LoRA fine-tuning, WebSocket real-time communication, animation rendering.  
-- **Impact**: Delivered a full-stack voice chat platform with efficient hot-reload LoRA integration; collaborated with product and animation teams to create seamless, immersive user experiences.  
+<div style="display:flex; align-items:flex-start; gap:16px;">
+  <img src="assets/Ohcat.png" alt="Ohcat" width="240" style="border-radius:12px; flex:0 0 auto;" />
+
+  <div style="flex:1 1 auto;">
+    <ul style="margin:0;">
+      <li><strong>Overview</strong>: LLM-powered virtual character application enabling real-time voice conversations with customizable styles and animations.</li>
+      <li><strong>Tech Stack</strong>: React / Next.js, Flask, PyTorch, LoRA fine-tuning, WebSocket real-time communication, animation rendering.</li>
+      <li><strong>Impact</strong>: Delivered a full-stack voice chat platform with efficient hot-reload LoRA integration; collaborated with product and animation teams to create seamless, immersive user experiences.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 #### [AI Resume Matcher](https://github.com/Antony957/ai_resume_matcher)  
-- **Overview**: AI-driven recruitment assistant that parses unstructured resumes into structured candidate profiles and matches them with job descriptions.  
-- **Tech Stack**: OCR + LLM pipeline, semantic embedding search, vector retrieval, Flask backend.  
-- **Impact**: Achieved 90%+ recall in information extraction; reduced manual resume screening workload by ~80% for the client.  
+<div style="display:flex; align-items:flex-start; gap:16px;">
+  <img src="assets/ResumeMatcher.png" alt="ResumeMatcher" width="240" style="border-radius:12px; flex:0 0 auto;" />
+
+  <div style="flex:1 1 auto;">
+    <ul style="margin:0;">
+      <li><strong>Overview</strong>: AI-driven recruitment assistant that parses unstructured resumes into structured candidate profiles and matches them with job descriptions.</li>
+      <li><strong>Tech Stack</strong>: OCR + LLM pipeline, semantic embedding search, vector retrieval, Flask backend.</li>
+      <li><strong>Impact</strong>: Achieved 90%+ recall in information extraction; reduced manual resume screening workload by ~80% for the client.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 #### [Research in LLM Safety](https://github.com/Antony957/llm_safety)  
-- **Overview**: Research project focusing on enhancing robustness of large language models against jailbreak and adversarial attacks.  
-- **Tech Stack**: Security control mechanisms for multiple LLMs (e.g., Vicuna), evaluation against baselines, adversarial testing.  
-- **Impact**: Improved robustness against jailbreak attacks by ~60%; published 2 first-author papers in peer-reviewed venues.  
+<div style="display:flex; align-items:flex-start; gap:16px;">
+  <img src="assets/LLMResearch.png" alt="LLMResearch" width="240" style="border-radius:12px; flex:0 0 auto;" />
+
+  <div style="flex:1 1 auto;">
+    <ul style="margin:0;">
+      <li><strong>Overview</strong>: Research project focusing on enhancing robustness of large language models against jailbreak and adversarial attacks.</li>
+      <li><strong>Tech Stack</strong>: Security control mechanisms for multiple LLMs (e.g., Vicuna), evaluation against baselines, adversarial testing.</li>
+      <li><strong>Impact</strong>: Improved robustness against jailbreak attacks by ~60%; published 2 first-author papers in peer-reviewed venues.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 #### [Work Experience at Meituan](https://github.com/Antony957/meituan_dispatch)  
-- **Overview**: Large-scale mobility dispatching and visualization systems, including simulation, playback, and data pipelines.  
-- **Tech Stack**: Flink, HBase/Hive, Kafka, Spring Boot, A/B testing frameworks, front-end visualization.  
-- **Impact**:  
-  - Designed and delivered a **playback system** for billions of mobility data points, reducing ~5,000 hours of manual work annually.  
-  - Built a **dispatch model simulation platform** to efficiently evaluate 100+ strategies.  
-  - Implemented a **high-throughput data pipeline** (10M+ logs/day), accelerating model tuning cycles by 16% and improving ROI by 25%.
-  
+<div style="display:flex; align-items:flex-start; gap:16px;">
+  <img src="assets/MeituanExperience.png" alt="MeituanExperience" width="240" style="border-radius:12px; flex:0 0 auto;" />
+
+  <div style="flex:1 1 auto;">
+    <ul style="margin:0;">
+      <li><strong>Overview</strong>: Large-scale mobility dispatching and visualization systems, including simulation, playback, and data pipelines.</li>
+      <li><strong>Tech Stack</strong>: Flink, HBase/Hive, Kafka, Spring Boot, A/B testing frameworks, front-end visualization.</li>
+      <li><strong>Impact</strong>:
+        <ul>
+          <li>Designed and delivered a <strong>playback system</strong> for billions of mobility data points, reducing ~5,000 hours of manual work annually.</li>
+          <li>Built a <strong>dispatch model simulation platform</strong> to efficiently evaluate 100+ strategies.</li>
+          <li>Implemented a <strong>high-throughput data pipeline</strong> (10M+ logs/day), accelerating model tuning cycles by 16% and improving ROI by 25%.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
 <!--
 **Antony957/Antony957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
