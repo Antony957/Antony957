@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-cz207@duke.edu-red?logo=gmail&logoColor=white)](mailto:cz207@duke.edu)
 
 🎓 MEng in Electrical & Computer Engineering @ Duke (GPA: 4.0/4.0)  
-💻 Full-stack & AI Systems Engineer | Ex-Meituan | AI Startup Builder  
+💻 Full-stack & AI Systems Engineer | Ex-SDE @ Meituan
 🚀 Goal: build AI products that deliver clear user impact  
 🎯 Open to **SDE / Applied AI roles in the U.S.**.
 
