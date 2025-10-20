@@ -7,7 +7,6 @@
 🎓 MEng in Electrical & Computer Engineering @ Duke (GPA: 4.0/4.0)  
 💻 Full-stack & AI Systems Engineer | Ex-SDE @ Meituan  
 🚀 Goal: build AI products that deliver clear user impact  
-🎯 Open to **SDE / Applied AI roles in the U.S.**
 
 
 
