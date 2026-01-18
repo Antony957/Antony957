@@ -35,7 +35,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)  
-
+ <!-- 
 ## 🌟 Featured Projects
 
 <table>
@@ -113,3 +113,4 @@
     </td>
   </tr>
 </table>
+-->
